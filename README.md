@@ -1,3 +1,3 @@
-# Fire-detection-system
+# Fire-Detection-System
 
 ESP8288
