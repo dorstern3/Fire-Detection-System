@@ -19,7 +19,7 @@ In the project, I used the **ESP8288 Processor** which receives a signal from an
 The system functions as follows:
 
 **1. Fire detected**:
-
+<br>
 Several **operations occur simultaneously**:
 -	**Red LED** flashes.
 -	Alarm is activated via a **Buzzer**.
