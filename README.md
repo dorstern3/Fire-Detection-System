@@ -14,14 +14,14 @@ https://github.com/user-attachments/assets/0f9d3453-867f-4003-9136-f18d3f20d32b
 In the project, I used the **ESP8288 Processor** which receives a signal from an **LM393 flame detection sensor**. 
 <br>
 The system functions as follows:
-
+<br>
 **1. Fire detected**:
 <br>
 Several **operations occur simultaneously**:
  -	**Red LED** flashes.
  -	Alarm is activated via a **Buzzer**.
  -	**FAN** powered through an **N-MOS current pusher** (MOSFET) in order to control the fan effectively.
-  
+<br> 
 **2. No fire detected:**
 <br>
 **Green LED** is on.
