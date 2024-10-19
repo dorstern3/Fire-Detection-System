@@ -17,17 +17,17 @@ https://github.com/user-attachments/assets/0f9d3453-867f-4003-9136-f18d3f20d32b
 In the project, I used the **ESP8288 Processor** which receives a signal from an **LM393 flame detection sensor**. 
 <br>
 The system functions as follows:
-
+<br>
 **1. Fire detected**:
 <br>
 Several **operations occur simultaneously**:
 -	**Red LED** flashes.
 -	Alarm is activated via a **Buzzer**.
 -	**FAN** powered through an **N-MOS current pusher** (MOSFET) in order to control the fan effectively.
-
+<br>
 **2. No fire detected:**
 **Green LED** is on.
-
+<br>
 Independently of the **LM393 fire detection sensor**, the system **simultaneously** performs continuous **temperature** and **humidity** measurements using the **DHT11 sensor** and displays the values in two ways:
 
 1. **Phone/Computer**– Communication is established through a **GUI** via a **WIFI module** that allows connection through the **TCP/IP protocol** allowing for the wireless display of information.
