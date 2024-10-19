@@ -24,7 +24,7 @@ Several **operations occur simultaneously**:
 -	**Red LED** flashes.
 -	Alarm is activated via a **Buzzer**.
 -	**FAN** powered through an **N-MOS current pusher** (MOSFET) in order to control the fan effectively.
-<br>
+  
 **2. No fire detected:**
 **Green LED** is on.
 <br>
