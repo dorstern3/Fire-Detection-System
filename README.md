@@ -33,7 +33,7 @@ Independently of the **LM393 fire detection sensor**, the system **simultaneousl
 
  - **Phone/Computer**– Communication is established through a **GUI** via a **WIFI module** that allows connection through the **TCP/IP protocol** allowing for the wireless display of information.
 
- -**16X2 LCD**– Communication via the **I2C protocol** allows for  serial communication between the various components to display the information.
+ - **16X2 LCD**– Communication via the **I2C protocol** allows for  serial communication between the various components to display the information.
 
 
 ## Electrical diagram:
