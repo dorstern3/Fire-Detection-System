@@ -26,8 +26,9 @@ Several **operations occur simultaneously**:
 -	**FAN** powered through an **N-MOS current pusher** (MOSFET) in order to control the fan effectively.
   
 **2. No fire detected:**
-**Green LED** is on.
 <br>
+**Green LED** is on.
+
 Independently of the **LM393 fire detection sensor**, the system **simultaneously** performs continuous **temperature** and **humidity** measurements using the **DHT11 sensor** and displays the values in two ways:
 
 1. **Phone/Computer**– Communication is established through a **GUI** via a **WIFI module** that allows connection through the **TCP/IP protocol** allowing for the wireless display of information.
