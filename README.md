@@ -30,9 +30,10 @@ Several **operations occur simultaneously**:
 
 Independently of the **LM393 fire detection sensor**, the system **simultaneously** performs continuous **temperature** and **humidity** measurements using the **DHT11 sensor** and displays the values in two ways:
 
-1.	**Phone/Computer** – Communication via a **WIFI module** using the **TCP/IP protocol** allows the temperature and humidity data to be displayed wirelessly.
+1. **Phone/Computer**– Communication is established through a GUI via a **WIFI module** that allows connection through the **TCP/IP protocol** allowing for the wireless display of information.
 
-2.	**16X2 LCD** – Communication via the **I2C protocol** allowing for serial communication between components to display the information.
+2. **16X2 LCD**– Communication via the **I2C protocol** allows for  serial communication between the various components to display the information.
+
 
 ## Electrical diagram:
 <img width="902" alt="Electrical diagram" src="https://github.com/user-attachments/assets/1880fa60-6480-4ad0-aa2c-f4179d125edc">
