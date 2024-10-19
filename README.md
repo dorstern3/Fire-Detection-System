@@ -1,10 +1,7 @@
 # Fire-Detection-System
 ## View:
 - ### Video:
-
-
 https://github.com/user-attachments/assets/0f9d3453-867f-4003-9136-f18d3f20d32b
-
 
 - ### Photos:
 <img src="https://github.com/user-attachments/assets/6488e4da-5b37-48d6-8eae-b4324ced96be" width="15%"></img> 
