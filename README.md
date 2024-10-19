@@ -14,10 +14,11 @@ https://github.com/user-attachments/assets/0f9d3453-867f-4003-9136-f18d3f20d32b
 <img src="https://github.com/user-attachments/assets/7e94e1fc-8e90-4af9-aafb-625ea394c0aa" width="15%"></img> 
 
 ## Description:
-In the project,I used the **ESP8288 Processor** which receives a signal from an **LM393 flame detection sensor**. 
+In the project, I used the **ESP8288 Processor** which receives a signal from an **LM393 flame detection sensor**. 
 The system functions as follows:
 
-**1. Fire detected**: 
+**1. Fire detected**:
+
 Several **operations occur simultaneously**:
 -	**Red LED** flashes.
 -	Alarm is activated via a **Buzzer**.
