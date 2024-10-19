@@ -21,9 +21,9 @@ The system functions as follows:
 **1. Fire detected**:
 <br>
 Several **operations occur simultaneously**:
--	**Red LED** flashes.
--	Alarm is activated via a **Buzzer**.
--	**FAN** powered through an **N-MOS current pusher** (MOSFET) in order to control the fan effectively.
+ -	**Red LED** flashes.
+ -	Alarm is activated via a **Buzzer**.
+ -	**FAN** powered through an **N-MOS current pusher** (MOSFET) in order to control the fan effectively.
   
 **2. No fire detected:**
 <br>
@@ -31,9 +31,9 @@ Several **operations occur simultaneously**:
 
 Independently of the **LM393 fire detection sensor**, the system **simultaneously** performs continuous **temperature** and **humidity** measurements using the **DHT11 sensor** and displays the values in two ways:
 
-1. **Phone/Computer**– Communication is established through a **GUI** via a **WIFI module** that allows connection through the **TCP/IP protocol** allowing for the wireless display of information.
+ - **Phone/Computer**– Communication is established through a **GUI** via a **WIFI module** that allows connection through the **TCP/IP protocol** allowing for the wireless display of information.
 
-2. **16X2 LCD**– Communication via the **I2C protocol** allows for  serial communication between the various components to display the information.
+ -**16X2 LCD**– Communication via the **I2C protocol** allows for  serial communication between the various components to display the information.
 
 
 ## Electrical diagram:
