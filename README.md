@@ -15,6 +15,7 @@ https://github.com/user-attachments/assets/0f9d3453-867f-4003-9136-f18d3f20d32b
 
 ## Description:
 In the project, I used the **ESP8288 Processor** which receives a signal from an **LM393 flame detection sensor**. 
+<br>
 The system functions as follows:
 
 **1. Fire detected**:
